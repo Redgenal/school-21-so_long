@@ -1,0 +1,36 @@
+/* XPM */
+static char *c625a541a6d64dc1f168c8286bae0745gEFOcDnOoD3WmDqm[] = {
+/* columns rows colors chars-per-pixel */
+"140 24 6 1 ",
+"  c #293C42",
+". c #394D63",
+"X c #47576F",
+"o c #5A738D",
+"O c #658DA9",
+"+ c #7DB8C3",
+/* pixels */
+" ...XXXoooXXX...                                                                                                         ......XXXoooXXX... ",
+" ooo++++++ooo...                                                                                                               ...XXXXXXXXX ",
+" ooo++++++ooo...                                                                                                               ...XXXXXXXXX ",
+" ooo++++++ooo...                                                                                                               ...XXXXXXXXX ",
+" OOO+++++++++XXX                                                                                                               ...oooXXX... ",
+" OOO+++++++++XXX                                                                                                               ...oooXXX... ",
+" OOO+++++++++XXX                                                                                                               ...oooXXX... ",
+" XXXOOO+++OOOXXX                                                                                                            ......OOOOOOXXX ",
+" XXXOOO+++OOOXXX                                                                                                            ......OOOOOOXXX ",
+" XXXOOO+++OOOXXX                                                                                                            ......OOOOOOXXX ",
+" ...XXXoooooo...                                                                                                               XXXOOOOOOooo ",
+" ...XXXoooooo...                                                                                                               XXXOOOOOOooo ",
+" ...XXXoooooo...                                                                                                               XXXOOOOOOooo ",
+" ...XXXXXX...                                                                                                                     oooooo... ",
+" ...XXXXXX...                                                                                                                     oooooo... ",
+" ...XXXXXX...                                                                                                                     oooooo... ",
+"    XXX...                                                                                                                  ...   ...XXX... ",
+"    XXX...                                                                                                                  ...   ...XXX... ",
+"    XXX...                                                                                                                  ...   ...XXX... ",
+" XXXXXXXXX...                                                                                                               ...ooo++++++ooo ",
+" XXXXXXXXX...                                                                                                               ...ooo++++++ooo ",
+" XXXXXXXXX...                                                                                                               ...ooo++++++ooo ",
+" ...XXXooo...                                                                                                               XXX+++++++++OOO ",
+" ...XXXooo...                                                                                                               XXX+++++++++OOO "
+};
